@@ -1,0 +1,390 @@
+[
+    {
+        "ID":0,
+        "NAME":"Bacias Hidrograficas",
+        "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/BACIAS_HIDROGRAFICAS/MapServer",
+        "Childrens":[
+            {
+                "ID":0,
+                "NAME":"Drenagem e Efluentes",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/BACIAS_HIDROGRAFICAS/MapServer/6"
+            },
+            {
+                "ID":1,
+                "NAME":"Bacias Hidrográficas de 3ª Ordem",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/BACIAS_HIDROGRAFICAS/MapServer/2"
+            }
+        ]
+    },
+    {
+        "ID":1,
+        "NAME":"Coleta seletiva",
+        "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/BACIAS_HIDROGRAFICAS/MapServer",
+        "Childrens":[
+            {
+                "ID":0,
+                "NAME":"Coleta seletiva",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/COLETA_SELETIVA/MapServer/0"
+            }
+        ]
+    },
+    {
+        "ID":2,
+        "NAME":"Uso e Ocupação do Solo",
+        "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/CONSULTAS/MapServer",
+        "Childrens":[
+            {
+                "ID":0,
+                "NAME":"Eixo de comércio e serviços",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/CONSULTAS/MapServer/8"
+            },
+            {
+                "ID":1,
+                "NAME":"Zonas de Uso e Ocupacao do Solos",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/CONSULTAS/MapServer/17"
+            },
+                        {
+                "ID":2,
+                "NAME":"Diretrizes viárias",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/CONSULTAS/MapServer/6"
+            },
+            {
+                "ID":3,
+                "NAME":"Zona Quadra e Lote",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/CONSULTAS/MapServer/13"
+            }      
+        ]
+    },
+    {
+        "ID":3,
+        "NAME":"Arborização (Atualizado 13/07/2020)",
+        "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/SEMAARVORES/MapServer",
+        "Childrens":[
+            {
+                "ID":0,
+                "NAME":"Arvores",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/SEMAARVORES/MapServer/0"    
+            }        
+        ]
+    },
+    {
+        "ID":4,
+        "NAME":"Equipamentos",
+        "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer",
+        "Childrens":[
+            {
+                "ID":0,
+                "NAME":"Serviços públicos",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/0"    
+            },
+            {
+                "ID":1,
+                "NAME":"ATI",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/1"    
+            },    
+            {
+                "ID":2,
+                "NAME":"Biblioteca",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/2"    
+            },    
+                        {
+                "ID":3,
+                "NAME":"Bombeiro",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/3"    
+            },                                  
+                        {
+                "ID":4,
+                "NAME":"Centro esportivo",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/4"    
+            },    
+                        {
+                "ID":5,
+                "NAME":"CMEI",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/5"    
+            }, 
+                        {
+                "ID":6,
+                "NAME":"Conselho Tutelar",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/6"    
+            },    
+            {
+                "ID":7,
+                "NAME":"CRAS",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/7"    
+            },    
+                        {
+                "ID":8,
+                "NAME":"Delegacia",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/8"    
+            },    
+                        {
+                "ID":9,
+                "NAME":"Escola Estadual",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/9"    
+            },    
+                        {
+                "ID":10,
+                "NAME":"Escola Municipal",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/10"    
+            },    
+                        {
+                "ID":11,
+                "NAME":"Escola Particular",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/11"    
+            },    
+                        {
+                "ID":12,
+                "NAME":"Faculdade",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/12"    
+            },    
+                        {
+                "ID":13,
+                "NAME":"Hospital",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/13"    
+            },    
+                        {
+                "ID":14,
+                "NAME":"Órgãos Oficiais",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/14"    
+            },    
+                        {
+                "ID":15,
+                "NAME":"Salão Comunitário",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/15"    
+            },    
+                        {
+                "ID":16,
+                "NAME":"Teatro",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/16"    
+            },    
+                        {
+                "ID":17,
+                "NAME":"Unidade Básica de Saúde",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/17"    
+            },    
+                        {
+                "ID":18,
+                "NAME":"Espaço de Lazer",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/19"    
+            },    
+                        {
+                "ID":19,
+                "NAME":"Horta Comunitaria",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/EQUIPAMENTOS/MapServer/20"    
+            }
+        ]
+    },
+    {
+        "ID":5,
+        "NAME":"Sistema Viário",
+        "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/SISTEMA_VIARIO/MapServer",
+        "Childrens":[
+            {
+                "ID":0,
+                "NAME":"Radar",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/SISTEMA_VIARIO/MapServer/0"    
+            },
+            {
+                "ID":1,
+                "NAME":"Semáforo",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/SISTEMA_VIARIO/MapServer/1"    
+            },
+                        {
+                "ID":2,
+                "NAME":"Avanço de sinal",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/SISTEMA_VIARIO/MapServer/2"    
+            },
+                        {
+                "ID":3,
+                "NAME":"Câmera de Monitoramento",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/SISTEMA_VIARIO/MapServer/4"    
+            },
+            {
+                "ID":4,
+                "NAME":"Sentido via",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/SISTEMA_VIARIO/MapServer/3"    
+            },    
+            {
+                "ID":5,
+                "NAME":"Ciclovia",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/SISTEMA_VIARIO/MapServer/5"    
+            }           
+        ]
+    },
+    {
+        "ID":6,
+        "NAME":"Transporte Coletivo",
+        "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/TRANSPORTE_COLETIVO/MapServer",
+        "Childrens":[
+            {
+                "ID":0,
+                "NAME":"Transporte Coletivo",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/TRANSPORTE_COLETIVO/MapServer/0"    
+            } 
+        ]
+    },
+    {
+        "ID":7,
+        "NAME":"Macrozonas",
+        "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MACROZONAS/MapServer",
+        "Childrens":[
+            {
+                "ID":0,
+                "NAME":"Setores da Macrozona",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MACROZONAS/MapServer/0"    
+            },
+            {
+                "ID":1,
+                "NAME":"Macrozonas",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MACROZONAS/MapServer/1"    
+            }  
+        ]
+    },
+    {
+        "ID":8,
+        "NAME":"Zonas de uso e ocupação",
+        "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/LEI_USO_OCUPACAO/MapServer",
+        "Childrens":[
+            {
+                "ID":0,
+                "NAME":"Área de influência da pedreira e aterro",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/LEI_USO_OCUPACAO/MapServer/0"    
+            },
+            {
+                "ID":1,
+                "NAME":"Área de ruído do aeroporto",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/LEI_USO_OCUPACAO/MapServer/1"    
+            },
+            {
+                "ID":2,
+                "NAME":"Eixos de Comércio e Serviços",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/LEI_USO_OCUPACAO/MapServer/2"    
+            },
+            {
+                "ID":3,
+                "NAME":"Diretrizes Viárias",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/LEI_USO_OCUPACAO/MapServer/3"    
+            },
+            {
+                "ID":4,
+                "NAME":"Zuos (Zonas de Uso e Ocupação do Solo)",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/LEI_USO_OCUPACAO/MapServer/4"    
+            }                            
+        ]
+    },
+    {
+        "ID":9,
+        "NAME":"IBGE 2010",
+        "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/IBGE_2010/MapServer",
+        "Childrens":[
+            {
+                "ID":0,
+                "NAME":"Setores Censitários 2010",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/IBGE_2010/MapServer/0"    
+            },
+            {
+                "ID":1,
+                "NAME":"Bairros Censo 2010",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/IBGE_2010/MapServer/1"    
+            },
+            {
+                "ID":2,
+                "NAME":"Zonas Censo 2010",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/IBGE_2010/MapServer/2"    
+            }                      
+        ]
+    },  
+    {
+        "ID":10,
+        "NAME":"Perímetro Urbano",
+        "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer",
+        "Childrens":[
+            {
+                "ID":0,
+                "NAME":"Rodovia",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/0"    
+            },
+            {
+                "ID":1,
+                "NAME":"Ferrovia",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/1"    
+            },
+            {
+                "ID":2,
+                "NAME":"Estradas Rurais",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/2"    
+            },
+            {
+                "ID":3,
+                "NAME":"Hidrografia",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/3"    
+            },     
+            {
+                "ID":4,
+                "NAME":"Curva de Ruído",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/4"    
+            },
+            {
+                "ID":5,
+                "NAME":"Aeroporto",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/5"    
+            }, 
+            {
+                "ID":6,
+                "NAME":"Gleba",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/6"    
+            }, 
+            {
+                "ID":7,
+                "NAME":"Bairro",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/7"    
+            }, 
+            {
+                "ID":8,
+                "NAME":"Parque",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/8"    
+            }, 
+            {
+                "ID":10,
+                "NAME":"Praça",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/9"    
+            },
+            {
+                "ID":11,
+                "NAME":"Zonas",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/10"    
+            }, 
+            {
+                "ID":12,
+                "NAME":"Perímetro Urbano",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/11"    
+            }, 
+            {
+                "ID":13,
+                "NAME":"Perímetro Municipal",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/12"    
+            },    
+            {
+                "ID":14,
+                "NAME":"Região Metropolitana",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/13"    
+            },  
+            {
+                "ID":15,
+                "NAME":"Zuos (Zonas de Uso e Ocupação do solo)",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/14"    
+            },  
+            {
+                "ID":16,
+                "NAME":"ECS (Eixo de Comércio e Serviço)",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/15"    
+            },       
+            {
+                "ID":17,
+                "NAME":"Faixa de Terra",
+                "dir":"https://geoproc.maringa.pr.gov.br/arcgis/rest/services/SIGMARINGA/MAPA_BASE/MapServer/16"    
+            }          
+        ]
+    }
+    
+]    

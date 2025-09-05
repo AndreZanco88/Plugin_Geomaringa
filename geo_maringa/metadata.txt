@@ -5,12 +5,12 @@
 [general]
 name=GeoMaringa Data Source
 qgisMinimumVersion=3.0
-description=Plugin para obtenção dos dados livres disponíveis no portal GeoMaringá.  (Este é um produto não oficial)
+description=Plugin para obtenção dos dados disponíveis no portal GeoMaringá de forma rápida e eficiente.  (Este é um produto não oficial)
 version=1.0
 author=Andre Zanco
 email=andrezanco88@gmail.com
 
-about=Plugin para obtenção dos dados livres disponíveis no portal GeoMaringá.  (Este é um produto não oficial)
+about=Plugin para obtenção dos dados disponíveis no portal GeoMaringá de forma rápida e eficiente.  (Este é um produto não oficial)
 
 tracker=http://bugs
 repository=http://repo
